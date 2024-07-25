@@ -1,6 +1,7 @@
 # PXG Core Values
 
 - **Freedom.** Prefer optional above mandatory.
+- **Fun.** While realism is to some extent important, enjoyment of the community is above it.
 - **Simplicity.** Prefer simple and straightforward solutions above complex and labour-intensive ones.
 - **Creativity.** Embrace creative ideas of the community.
 - **Lightweight.** Minimise the time investment required from the staff and the community.
