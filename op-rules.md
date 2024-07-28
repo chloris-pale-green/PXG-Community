@@ -2,12 +2,12 @@
 
 
 ## Serious ops
-- The default for the regular op schedule.
+- They are the default for the regular op schedule (Wednesdays and Sundays at 1900 UK time).
 - Always stick to your buddy team. Infantry always moves in teams of at least two people.
 - Protect civilians.
 - Ask your leader for permission before picking up or using enemy assets.
-- Follow rules of engagement. By default, PID targets and ask for permission before engaging.
-- Mission objectives in accordance with Laws of armed conflict.
+- Follow rules of engagement. By default, PID targets and ask your leader for permission before engaging.
+- Mission objectives in accordance with Laws of armed conflict (i.e. no hurting civilians or executing defenseless opponents).
 
 
 ## Memey ops
@@ -15,4 +15,4 @@
 - Must be clearly marked as memey.
 - Can be scheduled as:
     + *coffee ops* (outside the regular op schedule)
-    + *special occasion ops* in the regular op schedule (such as Christmas, Easter, New Year, Halloween, etc.; consult PXG Team before scheduling)
+    + *special occasion ops* in the regular op schedule (on occasions such as Christmas, Easter, New Year, Halloween, etc.; consult PXG Team before scheduling)
