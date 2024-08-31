@@ -16,6 +16,7 @@ While realism is, to some extent, important, enjoyment of the community is the p
 Free people from obligations to play uninteresting roles just because they would be realistic (e.g. logistics in small-scale ops).
 
 ### Simplicity and lightness
+PXG is a group of friends who play quality Arma together.
 Prefer simple and straightforward solutions above complex and labour-intensive ones.
 Minimize the time investment required from the staff and the community.
 The less moving parts, the less likely the machine is to break.
